@@ -16,4 +16,5 @@ Oscar Rendon
 
 
 Code sourced from Xpert learing Assistant.
-Project Link: https://github.com/Danr55/challenge7
+- Project Link: https://github.com/Danr55/challenge7
+- Video link: https://drive.google.com/file/d/18ig9PKYhDzlbuVkytkRdkiIPLQ3nXmYz/view
